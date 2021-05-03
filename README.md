@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HLXY-420
 - 👀 I’m interested in every techs
-- 🌱 I’m currently learning react, vue and PHP
+- 🌱 I’m currently learning electron, quarkus and elixir
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
