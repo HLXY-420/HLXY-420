@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HLXY-420
-- 👀 I’m interested in any techs
-- 🌱 I’m currently learning kotlin, flutter and some other awesome things
+- 👀 I’m interested in computer graphics
+- 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
