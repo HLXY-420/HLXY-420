@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HLXY-420
-- 👀 I’m interested in computer graphics(mainly animation)
-- 🌱 I’m currently learning cpp, physically based animation and neural networks.
+- 👀 I’m interested in computer graphics(mainly animation?)
+- 🌱 I’m currently learning physically based animation and neural networks.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
